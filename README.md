@@ -1,6 +1,6 @@
 
 
-                              Multi Language Django - Abdurasulov Codes 
+                              Multi Language Django - Sardor Codes 
 
 - Oddiy, modelda ega bo'lgan websayt yaratish.
 
